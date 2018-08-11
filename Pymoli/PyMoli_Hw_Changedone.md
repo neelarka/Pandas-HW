@@ -1,5 +1,7 @@
 # Description
--
+- The 5 most profitable gaming items are Oathbreaker- Last Hope of the Breaking Storm, Nirvana, Fiery Glass Crusader, Final Critic & Singed Scalpel respectively.
+- The 5 most popular gaming items on the basis of number of purchases made are Oathbreaker- Last Hope of the Breaking Storm, Fiery Glass Crusader, Extraction- Quickblade Of Trembling Hands, Nirvana & Pursuit, Cudgel of  Necromancy respectively.
+- Majority of players when classified on the basis of gender are male(84.03%) compared to females (14%) and others (1.92%) and when grouped on the basis of age are in the age group(20-24) with a percentage of (44.79%).
 
 ```python
 # Dependencies and Setup
